@@ -1,0 +1,15 @@
+
+-- How many employees are there?
+-- How many employees are there for each department?
+-- Calculate average satisfactory level for each department
+
+
+1. Find out those employee IDs who have ranked top for each department based on spending their time in the company. 
+2. Which three departments had the highest satisfactory score?
+3. Which three departments had the lowest satisfactory score?
+4. Consider IT and technical departments as a tech_group and marketing and product_mng as a mng_group and give us a comparison by considering the avg last evaluation.
+5. The company decided to give promotions to all the employees based on the number of project completions for the IT department. Please give us a promotional report based on the below scenario. 
+    
+		Scenario 1: Associate Software Engineer—Project Completion (1-3)
+		Scenario 2: Software Engineer Project—Completion (4-5)
+		Scenario 3: Senior Software Engineer—Project completion (6-more)
